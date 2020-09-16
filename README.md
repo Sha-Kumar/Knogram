@@ -1,16 +1,27 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Sha-Kumar/Graphino)
+![issues-raw](https://img.shields.io/github/issues-raw/Sha-Kumar/Graphino)
+![license](https://img.shields.io/github/license/Sha-Kumar/Graphino)
+
+
 # Graphino
 
-A new Flutter project. Which is helpful for the user to know about the recent problematic questions.
+Graphino app intended to train your brain by puzzles. 
 
-## Getting Started
+Installation
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+```
+Usage 
 
-A few resources to get you started if this is your first Flutter project:
+```
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Feedback
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- If you think Towards Life is useful, consider giving it a star.
+- If something is not working, [create an
+  issue](https://github.com/Sha-Kumar/Graphino/issues/new).
+
+### Created & Maintained By [Sha-Kumar](https://github.com/Sha-Kumar)

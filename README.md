@@ -1,6 +1,6 @@
 # Graphino
 
-A new Flutter project.
+A new Flutter project. Which is helpful for the user to know about the recent problematic questions.
 
 ## Getting Started
 

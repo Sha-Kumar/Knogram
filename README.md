@@ -5,7 +5,7 @@
 
 # Graphino
 
-Graphino app intended to train your brain by puzzles. 
+Graphino app intended to train your brain by puzzles. That is, this project is intended to give you the most competitive exam papers with solutions and also some most intresting puzzles for your brain. 
 
 Installation
 

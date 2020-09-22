@@ -24,4 +24,4 @@ flutter run
 - If something is not working, [create an
   issue](https://github.com/Sha-Kumar/Graphino/issues/new).
 
-### Created & Maintained By [Sha-Kumar](https://github.com/Sha-Kumar) , [rustiever](https://github.com/rustiever).
+### Created & Maintained By [Sha-Kumar](https://github.com/Sha-Kumar) and [rustiever](https://github.com/rustiever).

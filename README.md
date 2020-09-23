@@ -2,10 +2,11 @@
 ![issues-raw](https://img.shields.io/github/issues-raw/Sha-Kumar/Graphino)
 ![license](https://img.shields.io/github/license/Sha-Kumar/Graphino)
 
+# Under Development
 
-# Graphino
+# Knowgram
 
-Graphino app intended to train your brain by puzzles. That is, this project is intended to give you the most competitive exam papers with solutions and also some most intresting puzzles for your brain. 
+Knogram is crossplatform app built using flutter intended to tease your brain with enormous collection of puzzles. This app also contains most of the competitive exam papers in very organized manner which will be available at your fingertips.
 
 Installation
 
@@ -19,9 +20,5 @@ flutter run
 ```
 
 ## Feedback
-
-- If you think Towards Life is useful, consider giving it a star.
-- If something is not working, [create an
-  issue](https://github.com/Sha-Kumar/Graphino/issues/new).
-
-### Created & Maintained By [Sha-Kumar](https://github.com/Sha-Kumar) and [rustiever](https://github.com/rustiever).
+- If you think Knogram is useful, consider giving it a star.
+- If something is not working or got any new suggestions, [create an issue](https://github.com/Sha-Kumar/Graphino/issues/new). and let's discuss it there

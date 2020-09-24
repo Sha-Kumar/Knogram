@@ -19,6 +19,10 @@ Usage
 flutter run
 ```
 
+### Useage
+
+Used for getting knowledge.
+
 ## Feedback
 - If you think Knogram is useful, consider giving it a star.
 - If something is not working or got any new suggestions, [create an issue](https://github.com/Sha-Kumar/Graphino/issues/new). and let's discuss it there
